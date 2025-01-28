@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Do something today that your future self will thank you for."
+> "Success is liking yourself, liking what you do, and liking how you do it."
 
 ---
 
-**Random Number:** 479
-**Random Text:** 4IYbB6wryY1i9SR
+**Random Number:** 317
+**Random Text:** n2Xp7SKoceU4ZDP
