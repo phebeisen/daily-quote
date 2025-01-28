@@ -16,8 +16,8 @@ echo "" >> README.md
 echo "**Random Number:** $RANDOM_NUMBER" >> README.md
 echo "**Random Text:** $RANDOM_TEXT" >> README.md
 
-# Add the files to the staging area
-git add README.md random.txt
+# Add the README.md file to the staging area
+git add README.md
 
 # Commit the change
 git commit -m "Update README with random quote: $RANDOM_QUOTE"

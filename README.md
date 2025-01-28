@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Do what you can, with what you have, where you are."
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."
 
 ---
 
-**Random Number:** 542
-**Random Text:** 4UVevPfbs3BGlvx8
+**Random Number:** 582
+**Random Text:** Twh2ubWG4ucpQXV
