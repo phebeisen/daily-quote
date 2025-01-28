@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success is not final, failure is not fatal: It is the courage to continue that counts."
+> "Do something today that your future self will thank you for."
 
 ---
 
-**Random Number:** 582
-**Random Text:** Twh2ubWG4ucpQXV
+**Random Number:** 479
+**Random Text:** 4IYbB6wryY1i9SR
