@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success is liking yourself, liking what you do, and liking how you do it."
+> "Don’t count the days, make the days count."
 
 ---
 
-**Random Number:** 317
-**Random Text:** n2Xp7SKoceU4ZDP
+**Random Number:** 380
+**Random Text:** 8dXjcVPPdEtpiB
