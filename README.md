@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+> "Start where you are. Use what you have. Do what you can."
 
 ---
 
-**Random Number:** 141
-**Random Text:** PjVOJQur1PoAL2k6
+**Random Number:** 560
+**Random Text:** KBLxHUddEkFNqAHI
