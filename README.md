@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Start where you are. Use what you have. Do what you can."
+> "Do something today that your future self will thank you for."
 
 ---
 
-**Random Number:** 560
-**Random Text:** KBLxHUddEkFNqAHI
+**Random Number:** 680
+**Random Text:** ZUHjIKbfr5e4PfSF
