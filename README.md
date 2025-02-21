@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t let the fear of losing be greater than the excitement of winning."
+> "Believe you can and you're halfway there."
 
 ---
 
-**Random Number:** 649
-**Random Text:** 64CBsBQfysdsM2Pg
+**Random Number:** 414
+**Random Text:** 3SLhJ2bykoQoW5p7
