@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Be a voice, not an echo."
+> "Don’t be afraid to give up the good to go for the great."
 
 ---
 
-**Random Number:** 417
-**Random Text:** QhDp9nOzzvfK9mY
+**Random Number:** 380
+**Random Text:** GucPct747NY6W40G
