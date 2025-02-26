@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to give up the good to go for the great."
+> "Dreams don't work unless you do."
 
 ---
 
-**Random Number:** 380
-**Random Text:** GucPct747NY6W40G
+**Random Number:** 961
+**Random Text:** TqkukWNtA18FwP
