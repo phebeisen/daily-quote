@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to start over. It’s a chance to build something better this time."
+> "Be the change that you wish to see in the world."
 
 ---
 
-**Random Number:** 317
-**Random Text:** 7TZ59eTbQ9xIz8
+**Random Number:** 666
+**Random Text:** VOFmySUTBKNY3Wig
