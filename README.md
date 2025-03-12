@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Dream it. Wish it. Do it."
+> "It’s going to be hard, but hard does not mean impossible."
 
 ---
 
-**Random Number:** 599
-**Random Text:** k3pYuOTg3LRqJcH
+**Random Number:** 568
+**Random Text:** ri178lTkhU3GGQ8
