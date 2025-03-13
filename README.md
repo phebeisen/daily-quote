@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "It’s going to be hard, but hard does not mean impossible."
+> "Act as if what you do makes a difference. It does."
 
 ---
 
-**Random Number:** 568
-**Random Text:** ri178lTkhU3GGQ8
+**Random Number:** 580
+**Random Text:** htwywAz9X0pQlPec
