@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Be the change that you wish to see in the world."
+> "Do the hard jobs first. The easy jobs will take care of themselves."
 
 ---
 
-**Random Number:** 826
-**Random Text:** G3LEE0V31UH8FpbI
+**Random Number:** 650
+**Random Text:** ku2TzaAobHax3Uh
