@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Do the hard jobs first. The easy jobs will take care of themselves."
+> "Hard work beats talent when talent doesn't work hard."
 
 ---
 
-**Random Number:** 650
-**Random Text:** ku2TzaAobHax3Uh
+**Random Number:** 525
+**Random Text:** Uwt7sN7SrDoTG4fn
