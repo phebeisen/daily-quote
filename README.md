@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Go confidently in the direction of your dreams. Live the life you have imagined."
+> "Be so good they can’t ignore you."
 
 ---
 
-**Random Number:** 211
-**Random Text:** nebXMDqtZb8Xa0NJ
+**Random Number:** 714
+**Random Text:** RiisL2C2s2cIhVCo
