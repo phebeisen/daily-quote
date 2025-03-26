@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Be so good they can’t ignore you."
+> "Success is the best revenge."
 
 ---
 
-**Random Number:** 714
-**Random Text:** RiisL2C2s2cIhVCo
+**Random Number:** 435
+**Random Text:** dfp89xhB75CUFu8d
