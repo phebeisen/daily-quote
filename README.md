@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Everything you’ve ever wanted is on the other side of fear."
+> "Life is 10% what happens to us and 90% how we react to it."
 
 ---
 
-**Random Number:** 133
-**Random Text:** XnDWqi6LqWeDToo
+**Random Number:** 135
+**Random Text:** JC1n0hz1Nah2yT
