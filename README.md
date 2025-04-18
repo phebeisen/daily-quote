@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to fail. Be afraid not to try."
+> "Do what you can, with what you have, where you are."
 
 ---
 
-**Random Number:** 329
-**Random Text:** ixmGSfulmQ0isnM9
+**Random Number:** 837
+**Random Text:** UX1wOVg5gV9yGOa8
