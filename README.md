@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Work hard in silence, let your success be your noise."
+> "Don’t let yesterday take up too much of today."
 
 ---
 
-**Random Number:** 352
-**Random Text:** n9NV1mvohlpQZkt
+**Random Number:** 997
+**Random Text:** pGD3P0fEEuBiDCs1
