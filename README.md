@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t limit your challenges. Challenge your limits."
+> "Don’t be afraid to fail. Be afraid not to try."
 
 ---
 
-**Random Number:** 866
-**Random Text:** jMm4AGKO7t3DwEfZ
+**Random Number:** 475
+**Random Text:** KmxRGBtdbua2RQih
