@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Dream bigger. Do bigger."
+> "Don’t let the fear of losing be greater than the excitement of winning."
 
 ---
 
-**Random Number:** 660
-**Random Text:** w2VEPLhdPPQP0rgr
+**Random Number:** 78
+**Random Text:** 0zWnHU9UzRgvtrL0
