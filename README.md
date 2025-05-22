@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Your time is limited, don't waste it living someone else's life."
+> "The only person you are destined to become is the person you decide to be."
 
 ---
 
-**Random Number:** 503
-**Random Text:** grET3JGAbmPefd6k
+**Random Number:** 350
+**Random Text:** m0bAIkx0mOb8fZB
