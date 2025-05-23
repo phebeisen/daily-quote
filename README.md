@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The only person you are destined to become is the person you decide to be."
+> "Success is the sum of small efforts, repeated day in and day out."
 
 ---
 
-**Random Number:** 350
-**Random Text:** m0bAIkx0mOb8fZB
+**Random Number:** 585
+**Random Text:** r6nfmKP3p2QuPQcq
