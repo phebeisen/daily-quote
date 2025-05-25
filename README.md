@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to start over. It’s a chance to build something better this time."
+> "Dreams don't work unless you do."
 
 ---
 
-**Random Number:** 861
-**Random Text:** wWhpAQgvAUeCpu6s
+**Random Number:** 521
+**Random Text:** 2yvSvRREk1wR9CNv
