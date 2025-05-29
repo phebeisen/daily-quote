@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t let your dreams be dreams."
+> "Don’t be afraid to give up the good to go for the great."
 
 ---
 
-**Random Number:** 704
-**Random Text:** yaWhebuQQHDZzMp
+**Random Number:** 923
+**Random Text:** flrOmYLUT4EnNYj
