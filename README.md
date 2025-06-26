@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to give up the good to go for the great."
+> "Keep your face always toward the sunshine—and shadows will fall behind you."
 
 ---
 
-**Random Number:** 689
-**Random Text:** MVzGD3SXY4S4xf4
+**Random Number:** 76
+**Random Text:** HLvIRsLhC603yiX4
