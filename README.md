@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t let the fear of striking out keep you from playing the game."
+> "Don't let yesterday take up too much of today."
 
 ---
 
-**Random Number:** 751
-**Random Text:** 0bub6HHMqZrL5aX
+**Random Number:** 620
+**Random Text:** 58dXvTEKWNC0J1UK
