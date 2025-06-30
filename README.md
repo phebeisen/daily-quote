@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don't let yesterday take up too much of today."
+> "The only limit to our realization of tomorrow is our doubts of today."
 
 ---
 
-**Random Number:** 620
-**Random Text:** 58dXvTEKWNC0J1UK
+**Random Number:** 13
+**Random Text:** fSFkmqb9q7mnrFj
