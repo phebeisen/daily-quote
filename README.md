@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The only limit to our realization of tomorrow is our doubts of today."
+> "Success is not in what you have, but who you are."
 
 ---
 
-**Random Number:** 13
-**Random Text:** fSFkmqb9q7mnrFj
+**Random Number:** 209
+**Random Text:** yRwFBYy4DaE6Xy
