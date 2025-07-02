@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success is not in what you have, but who you are."
+> "Do what you can, with what you have, where you are."
 
 ---
 
-**Random Number:** 209
-**Random Text:** yRwFBYy4DaE6Xy
+**Random Number:** 465
+**Random Text:** dtm7LjDjcPqR1D
