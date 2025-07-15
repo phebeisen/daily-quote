@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Go confidently in the direction of your dreams. Live the life you have imagined."
+> "Don’t be afraid to give up the good to go for the great."
 
 ---
 
-**Random Number:** 615
-**Random Text:** 8KksExR2l5wmj
+**Random Number:** 343
+**Random Text:** 3wSHCjQTIBWFFJY
