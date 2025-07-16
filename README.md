@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to give up the good to go for the great."
+> "The best time to plant a tree was 20 years ago. The second best time is now."
 
 ---
 
-**Random Number:** 343
-**Random Text:** 3wSHCjQTIBWFFJY
+**Random Number:** 697
+**Random Text:** xClyZN9j6K99REhl
