@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle."
+> "Opportunities don't happen. You create them."
 
 ---
 
-**Random Number:** 491
-**Random Text:** w68S4oCbV0ErahP
+**Random Number:** 192
+**Random Text:** lif9SjXgmdF4aWMZ
