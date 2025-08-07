@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Dream bigger. Do bigger."
+> "Hard work beats talent when talent doesn't work hard."
 
 ---
 
-**Random Number:** 284
-**Random Text:** L4An6rpB8Lwm02C
+**Random Number:** 742
+**Random Text:** MNmetllszyWIYk80
