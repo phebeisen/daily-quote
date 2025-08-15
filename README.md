@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The only way to achieve the impossible is to believe it is possible."
+> "Strive not to be a success, but rather to be of value."
 
 ---
 
-**Random Number:** 552
-**Random Text:** 5ADPMQeq1LKGGZo
+**Random Number:** 441
+**Random Text:** oRIzlbUQ8IGRUKVm
