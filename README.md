@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Strive not to be a success, but rather to be of value."
+> "Success doesn’t just find you. You have to go out and get it."
 
 ---
 
-**Random Number:** 441
-**Random Text:** oRIzlbUQ8IGRUKVm
+**Random Number:** 541
+**Random Text:** ZU0gBtPn6Wrws3F
