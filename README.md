@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The key to success is to focus on goals, not obstacles."
+> "Life is 10% what happens to us and 90% how we react to it."
 
 ---
 
-**Random Number:** 673
-**Random Text:** sQsJZJVmIqRtzqI
+**Random Number:** 60
+**Random Text:** CGMrZaAZv8m3BUdw
