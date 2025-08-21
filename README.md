@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t let the noise of others’ opinions drown out your own inner voice."
+> "Don’t be afraid to fail. Be afraid not to try."
 
 ---
 
-**Random Number:** 4
-**Random Text:** yS9aElf9K5wPANyl
+**Random Number:** 28
+**Random Text:** NV4XtGV1ajfDoSE
