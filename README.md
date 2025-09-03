@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t count the days, make the days count."
+> "Don’t be afraid to fail. Be afraid not to try."
 
 ---
 
-**Random Number:** 881
-**Random Text:** Ycayrwogou9bUay
+**Random Number:** 878
+**Random Text:** ErbYVGYMqjGvmXTn
