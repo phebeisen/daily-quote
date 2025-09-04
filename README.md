@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to fail. Be afraid not to try."
+> "You are never too old to set another goal or to dream a new dream."
 
 ---
 
-**Random Number:** 878
-**Random Text:** ErbYVGYMqjGvmXTn
+**Random Number:** 777
+**Random Text:** xPrEkAEGZsbypBci
