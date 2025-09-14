@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to start over. It’s a chance to build something better this time."
+> "The only limit to our realization of tomorrow is our doubts of today."
 
 ---
 
-**Random Number:** 359
-**Random Text:** CqwrjwlztV75QgIw
+**Random Number:** 952
+**Random Text:** 3hbbtRiIxfei9c9
