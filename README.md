@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The only limit to our realization of tomorrow is our doubts of today."
+> "Strive not to be a success, but rather to be of value."
 
 ---
 
-**Random Number:** 952
-**Random Text:** 3hbbtRiIxfei9c9
+**Random Number:** 790
+**Random Text:** W6Al5ua4kGnAN3V
