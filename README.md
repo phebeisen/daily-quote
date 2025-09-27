@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Work hard in silence, let your success be your noise."
+> "Strive not to be a success, but rather to be of value."
 
 ---
 
-**Random Number:** 363
-**Random Text:** QL6uePVUu1zvz5eu
+**Random Number:** 860
+**Random Text:** J73uucxJDU3SzvI
