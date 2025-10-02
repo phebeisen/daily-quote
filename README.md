@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Do the hard jobs first. The easy jobs will take care of themselves."
+> "Push yourself, because no one else is going to do it for you."
 
 ---
 
-**Random Number:** 127
-**Random Text:** B7YyTMCNXduT
+**Random Number:** 265
+**Random Text:** XhPGrz7G43EdW3g
