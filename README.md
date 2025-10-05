@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Hard work beats talent when talent doesn't work hard."
+> "Success is not the key to happiness. Happiness is the key to success."
 
 ---
 
-**Random Number:** 314
-**Random Text:** yN71qB1EoaYTP5t
+**Random Number:** 741
+**Random Text:** sktg0pQQiinQhkwf
