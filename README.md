@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The future belongs to those who believe in the beauty of their dreams."
+> "Success doesn’t just find you. You have to go out and get it."
 
 ---
 
-**Random Number:** 982
-**Random Text:** 9tzqAONfom3L8dP4
+**Random Number:** 511
+**Random Text:** QKxdsKnHgzHUsO
