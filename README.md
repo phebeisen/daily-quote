@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Keep going. Everything you need will come to you at the perfect time."
+> "Don't let yesterday take up too much of today."
 
 ---
 
-**Random Number:** 238
-**Random Text:** I1qHB0QL2DZDzf58
+**Random Number:** 520
+**Random Text:** Y30XGMYsXouqPhcK
