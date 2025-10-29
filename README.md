@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Every accomplishment starts with the decision to try."
+> "The only limit to our realization of tomorrow is our doubts of today."
 
 ---
 
-**Random Number:** 697
-**Random Text:** 6zCokItHnFyA6S8m
+**Random Number:** 646
+**Random Text:** QcaC3C9vjo2V2Lmv
