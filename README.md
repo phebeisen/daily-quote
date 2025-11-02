@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success is the best revenge."
+> "Life is 10% what happens to us and 90% how we react to it."
 
 ---
 
-**Random Number:** 898
-**Random Text:** QKKkmHrGkAC3iaED
+**Random Number:** 994
+**Random Text:** Ot5I7wLV5MhU4H
