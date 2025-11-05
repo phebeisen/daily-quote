@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+> "Don’t let what you cannot do interfere with what you can do."
 
 ---
 
-**Random Number:** 861
-**Random Text:** gDkhs6T6jRSARS
+**Random Number:** 105
+**Random Text:** IVeu056Wc0aqz3hS
