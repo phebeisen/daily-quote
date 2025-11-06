@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t let what you cannot do interfere with what you can do."
+> "Do something today that your future self will thank you for."
 
 ---
 
-**Random Number:** 727
-**Random Text:** gaV5tGG6oyUhcdl5
+**Random Number:** 511
+**Random Text:** hmqb5Yb9AiMMWue
