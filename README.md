@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The harder you work for something, the greater you'll feel when you achieve it."
+> "Your time is limited, don't waste it living someone else's life."
 
 ---
 
-**Random Number:** 469
-**Random Text:** 01UMmgsvEQpR5g
+**Random Number:** 166
+**Random Text:** iSbOn0reEw1kbbXB
