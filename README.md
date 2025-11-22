@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless."
+> "Do something today that your future self will thank you for."
 
 ---
 
-**Random Number:** 742
-**Random Text:** HHmhlIniia7ZEM0
+**Random Number:** 602
+**Random Text:** OBKx0RAuQc3lngrS
