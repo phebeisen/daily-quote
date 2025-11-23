@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Do something today that your future self will thank you for."
+> "Don’t be afraid to give up the good to go for the great."
 
 ---
 
-**Random Number:** 602
-**Random Text:** OBKx0RAuQc3lngrS
+**Random Number:** 701
+**Random Text:** 4mDVOcnJpbagg16K
