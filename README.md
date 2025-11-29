@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Your dreams are worth fighting for."
+> "The pain you feel today will be the strength you feel tomorrow."
 
 ---
 
-**Random Number:** 308
-**Random Text:** c7m4jPGW7qjHrBl6
+**Random Number:** 306
+**Random Text:** its2lb3UUSjgAYzu
