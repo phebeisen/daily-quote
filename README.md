@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Go confidently in the direction of your dreams. Live the life you have imagined."
+> "Don't let yesterday take up too much of today."
 
 ---
 
-**Random Number:** 665
-**Random Text:** tgN7vaKUpvhEFdGE
+**Random Number:** 863
+**Random Text:** jqnPcMy1fvdOUvt4
