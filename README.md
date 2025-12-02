@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don't let yesterday take up too much of today."
+> "Hard work beats talent when talent doesn't work hard."
 
 ---
 
-**Random Number:** 863
-**Random Text:** jqnPcMy1fvdOUvt4
+**Random Number:** 662
+**Random Text:** 3ns4XfbHap1YUge
