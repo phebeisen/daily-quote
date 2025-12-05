@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success is the sum of small efforts, repeated day in and day out."
+> "Strive not to be a success, but rather to be of value."
 
 ---
 
-**Random Number:** 467
-**Random Text:** w3lVY4uyMgU9nkbQ
+**Random Number:** 991
+**Random Text:** ZrKoC1UeGoGa1DPb
