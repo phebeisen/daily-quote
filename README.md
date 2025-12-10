@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Start where you are. Use what you have. Do what you can."
+> "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
 
 ---
 
-**Random Number:** 515
-**Random Text:** AuvFVbkWAP8nnoyW
+**Random Number:** 397
+**Random Text:** CNcSfXkeCc5rgwY2
