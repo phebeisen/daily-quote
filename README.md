@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Opportunities don't happen. You create them."
+> "Strive not to be a success, but rather to be of value."
 
 ---
 
-**Random Number:** 721
-**Random Text:** c55NfuRWZL13SLda
+**Random Number:** 567
+**Random Text:** Rac2EcQk0nV15JG
