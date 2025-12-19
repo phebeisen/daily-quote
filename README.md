@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Strive not to be a success, but rather to be of value."
+> "Success is the best revenge."
 
 ---
 
-**Random Number:** 567
-**Random Text:** Rac2EcQk0nV15JG
+**Random Number:** 386
+**Random Text:** 0BEYfEGwL8fqwe6
