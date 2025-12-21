@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t stop until you’re proud."
+> "Don’t let what you cannot do interfere with what you can do."
 
 ---
 
-**Random Number:** 89
-**Random Text:** dznGxwAIqFXw1Ks
+**Random Number:** 361
+**Random Text:** nvBopxDRv6nJyM
