@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t let what you cannot do interfere with what you can do."
+> "The future belongs to those who believe in the beauty of their dreams."
 
 ---
 
-**Random Number:** 361
-**Random Text:** nvBopxDRv6nJyM
+**Random Number:** 986
+**Random Text:** 2SGIRmPOrIJNyua
