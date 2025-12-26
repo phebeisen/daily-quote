@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t stop until you’re proud."
+> "Don’t let the fear of losing be greater than the excitement of winning."
 
 ---
 
-**Random Number:** 131
-**Random Text:** g9UD6IYEwBi3rigw
+**Random Number:** 3
+**Random Text:** WXPTxz0tPuawmdix
