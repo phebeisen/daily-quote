@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Opportunities don't happen. You create them."
+> "Don’t be afraid to give up the good to go for the great."
 
 ---
 
-**Random Number:** 652
-**Random Text:** Vv4hoB2YKK1BOA
+**Random Number:** 300
+**Random Text:** g6WtyIeUdxkvA1EL
