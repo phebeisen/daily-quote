@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t be afraid to give up the good to go for the great."
+> "Success is the best revenge."
 
 ---
 
-**Random Number:** 300
-**Random Text:** g6WtyIeUdxkvA1EL
+**Random Number:** 864
+**Random Text:** iUKl1g4MO62pe0Av
