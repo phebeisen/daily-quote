@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The only way to do great work is to love what you do."
+> "Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
 
 ---
 
-**Random Number:** 722
-**Random Text:** TRBSJa3DdgJikB
+**Random Number:** 821
+**Random Text:** eLXK78bsEYs2zsX
