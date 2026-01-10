@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success doesn’t just find you. You have to go out and get it."
+> "Your dreams are worth fighting for."
 
 ---
 
-**Random Number:** 237
-**Random Text:** RuIZMUiWDWIvUENd
+**Random Number:** 758
+**Random Text:** qkQalRr3yg6bnL1p
