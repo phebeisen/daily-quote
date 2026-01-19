@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "It’s going to be hard, but hard does not mean impossible."
+> "Be the change you wish to see in the world."
 
 ---
 
-**Random Number:** 749
-**Random Text:** Uf42fvPSdFOjtKg
+**Random Number:** 859
+**Random Text:** vPLooi4Ro30s5gGG
