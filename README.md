@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t wait for opportunity. Create it."
+> "Success doesn’t just find you. You have to go out and get it."
 
 ---
 
-**Random Number:** 432
-**Random Text:** rSpRwgJ4Nnotafc2
+**Random Number:** 385
+**Random Text:** QmNSHe5vW4BT557z
