@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success doesn’t just find you. You have to go out and get it."
+> "Success is not just about making money. It’s about making a difference."
 
 ---
 
-**Random Number:** 385
-**Random Text:** QmNSHe5vW4BT557z
+**Random Number:** 524
+**Random Text:** fstcb6KfBGSIrrPQ
