@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don't stop until you're proud."
+> "The harder you work for something, the greater you'll feel when you achieve it."
 
 ---
 
-**Random Number:** 202
-**Random Text:** coLRun7avB5zkxD
+**Random Number:** 801
+**Random Text:** c74N98NrYzW2iFB
