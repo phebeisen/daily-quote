@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "The harder you work for something, the greater you'll feel when you achieve it."
+> "Be so good they can’t ignore you."
 
 ---
 
-**Random Number:** 801
-**Random Text:** c74N98NrYzW2iFB
+**Random Number:** 604
+**Random Text:** nVmNKKsGA9PAjMOW
