@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Success is the sum of small efforts, repeated day in and day out."
+> "Don’t let the noise of others’ opinions drown out your own inner voice."
 
 ---
 
-**Random Number:** 498
-**Random Text:** JAim8Gh1NLMWz8Q
+**Random Number:** 218
+**Random Text:** 3TDKxGyTYvLzwlqe
