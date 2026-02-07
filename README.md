@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Dream bigger. Do bigger."
+> "The only way to do great work is to love what you do."
 
 ---
 
-**Random Number:** 390
-**Random Text:** 6f1SA9gQzwl1s6
+**Random Number:** 361
+**Random Text:** n0Y6tM4Zgr45Rq9l
