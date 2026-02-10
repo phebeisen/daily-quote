@@ -1,9 +1,9 @@
 # Daily Random Quote
 
 **Today's Quote:**
-> "Don’t wait for the perfect moment. Take the moment and make it perfect."
+> "Success is the sum of small efforts, repeated day in and day out."
 
 ---
 
-**Random Number:** 423
-**Random Text:** sTKjRfkbDTvdBZH
+**Random Number:** 596
+**Random Text:** QIXcx45S8TAfR9mp
